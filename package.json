@@ -1,0 +1,9 @@
+{
+  "name": "trello-sort-by-vote",
+  "version": "0.0.1",
+  "author": "Flurin Egger",
+  "dependencies": {
+    "node-trello": "> 0.0.0"
+  },
+  "engines": [ "node >= 0.6.17" ]
+}
